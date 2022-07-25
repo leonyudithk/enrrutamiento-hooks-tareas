@@ -1,0 +1,11 @@
+{
+    "tareas": [
+        {
+            "id": 1,
+            "imagen": "",
+            "nombre": "Tarea 1",
+            "descripcion": "Ejemplo tarea 1"
+
+        }
+    ]
+}
