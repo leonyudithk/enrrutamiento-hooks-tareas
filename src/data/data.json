@@ -2,10 +2,16 @@
     "tareas": [
         {
             "id": 1,
-            "imagen": "",
-            "nombre": "Tarea 1",
-            "descripcion": "Ejemplo tarea 1"
-
+            "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658765874/Frontend12/i1fl2bkcjnthb8rqqnpk.jpg",
+            "nombre": "Tarea Corregir",
+            "descripcion": "Revisar los repositorios, y corregir"  
+        },
+        {
+            "id": 2,
+            "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658765874/Frontend12/i1fl2bkcjnthb8rqqnpk.jpg",
+            "nombre": "Tarea Desarrollar",
+            "descripcion": "Codigo para desarrollar"
+           
         }
     ]
 }

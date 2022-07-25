@@ -3,7 +3,7 @@ import { useState } from "react";
 const useForm = (initialState={}) => {
 
     const [data, setData] =useState(initialState)
-
+console.log(data)
     const reset = ()=>{
         setData(initialState)
     }
@@ -26,7 +26,7 @@ const useForm = (initialState={}) => {
         imagen: url
     })
 
-    return[reset, data, handleChange, handleChangeSelect, handleUploadImg];
+    return {reset, data, handleChange, handleChangeSelect, handleUploadImg};
 };
 
 export default useForm;
