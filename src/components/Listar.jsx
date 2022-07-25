@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Table } from 'antd';
 import { url } from '../helpers/url';
-
+import {Link} from 'react-router-dom'
 
 const Listar = () => {
 
@@ -58,7 +58,7 @@ const Listar = () => {
         {
             title: "Detalle",
             key: "detalle",
-            render: d =>(<button>detalle</button>)
+            render: d =>(<button><Link to={`/detalle/${d.id}`}>Detalle</Link></button>)
         },
         {
             title: "Eliminar",

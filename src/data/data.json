@@ -1,17 +1,82 @@
 {
-    "tareas": [
-        {
-            "id": 1,
-            "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658765874/Frontend12/i1fl2bkcjnthb8rqqnpk.jpg",
-            "nombre": "Tarea Corregir",
-            "descripcion": "Revisar los repositorios, y corregir"  
-        },
-        {
-            "id": 2,
-            "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658765874/Frontend12/i1fl2bkcjnthb8rqqnpk.jpg",
-            "nombre": "Tarea Desarrollar",
-            "descripcion": "Codigo para desarrollar"
-           
-        }
-    ]
+  "tareas": [
+    {
+      "id": 1,
+      "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658765874/Frontend12/i1fl2bkcjnthb8rqqnpk.jpg",
+      "nombre": "Tarea Corregir",
+      "descripcion": "Revisar los repositorios, y corregir"
+    },
+    {
+      "id": 2,
+      "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658765874/Frontend12/i1fl2bkcjnthb8rqqnpk.jpg",
+      "nombre": "Tarea Desarrollar",
+      "descripcion": "Codigo para desarrollar"
+    },
+    {
+      "nombre": " sdad",
+      "descripcion": " adadad",
+      "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658788137/Frontend12/judq6mpot27k8i4a1ge5.jpg",
+      "id": 3
+    },
+    {
+      "nombre": " Corregir",
+      "descripcion": " adadada",
+      "imagen": "https://res.cloudinary.com/danimel/image/upload/v1658788152/Frontend12/vzkqy4sqzrzz51sauarl.jpg",
+      "id": 4
+    },
+    {
+      "nombre": " Corregir",
+      "descripcion": " adadad",
+      "imagen": " ",
+      "id": 5
+    },
+    {
+      "nombre": " vevr",
+      "descripcion": " ver",
+      "imagen": " ",
+      "id": 6
+    },
+    {
+      "nombre": " veesadd",
+      "descripcion": " adaad",
+      "imagen": " ",
+      "id": 7
+    },
+    {
+      "nombre": " ",
+      "descripcion": " ",
+      "imagen": " ",
+      "id": 8
+    },
+    {
+      "nombre": " adad",
+      "descripcion": " dad",
+      "imagen": " ",
+      "id": 9
+    },
+    {
+      "nombre": " daD",
+      "descripcion": " SDAD",
+      "imagen": " ",
+      "id": 10
+    },
+    {
+      "nombre": " daD",
+      "descripcion": " SDAD",
+      "imagen": " ",
+      "id": 11
+    },
+    {
+      "nombre": " DAD",
+      "descripcion": " SDASDAS",
+      "imagen": " ",
+      "id": 12
+    },
+    {
+      "nombre": " SDASD",
+      "descripcion": " SDSA",
+      "imagen": " ",
+      "id": 13
+    }
+  ]
 }
